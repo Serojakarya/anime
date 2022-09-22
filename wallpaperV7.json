@@ -1,0 +1,323 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-D",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "main_ads_natives":"",
+      "main_ads_rewards":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "backup_ads_rewards":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"",
+      "interval_intertitial": 5,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://",
+      "on_off_category":""
+    }
+  ],
+  "More":
+  [
+    {
+      "id":1,
+      "title":"Ludo King",
+      "image":"https://lh3.googleusercontent.com/GIa9Ek1a4hyqqulStVT1RC7Mus0K5nOcCaeDpt9sJEekq6lnrSIK7LDrpH0OHlFgwog=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.ludo.king"
+    },
+    {
+      "id":2,
+      "title":"Homescapes",
+      "image":"https://lh3.googleusercontent.com/-mPOu6rWotI9ZLDVnvE3ZqKdTgEfaQaqD5SArpkYwlNJM0fOhJLRfJPpPWACHLezwIQ=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.playrix.homescapes"
+    },
+    {
+      "id":3,
+      "title":"Minecraft",
+      "image":"https://lh3.googleusercontent.com/VSwHQjcAttxsLE47RuS4PqpC4LT7lCoSjE7Hx5AW_yCxtDvcnsHHvm5CTuL5BPN-uRTP=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.mojang.minecraftpe"
+    }
+  ],
+
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Nature",
+      "image": "https://i.pinimg.com/564x/6c/b4/4d/6cb44d856850800b2b97858ac337e47f.jpg"
+
+    },
+    {
+      "id": 2,
+      "name_category": "Animal",
+      "image": "http://www.123mobilewallpapers.com/wp-content/uploads/2015/09/black_cat_cute_wallpaper.jpg"
+
+    },
+    {
+      "id": 3,
+      "name_category": "Car",
+      "image": "file:///android_asset/image/car.jpg"
+
+    }
+  ],
+
+"Data":
+  [
+    {
+      "id":1,
+      "name_category": "Assassin",
+      "title":"Natalia",
+      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhjGveD2sXZZuB_f6Kxq9_orSRfTDuBifqoEyshoVotyCV1o7_oKtc9miRDs4gGUEo3ntin3coHvd3qRAH9QiRsp6KXOLcOv7JYcO_E3MYHv5vbwrr2MSxRI618Uhs5s4GjJdDCWdomEJoxY2s6R88FQbEnykEi2Bg1UCrkiWsJ9dt5-oXMb-fB2-fG/s1920/Natalia.jpg"
+    },
+    {
+      "id": 2,
+      "name_category": "Assassin",
+      "title": "Natalia",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjT698ywkCJ0elp4NswSBfPGgvF7extbk91P1jzEUN4rw-8_4kHuxA9Nu7rzFslbhty-aZSmauFgligpqmAMt4c8xUMkHxMKE8cl0Y41GYqMRXgwUMAaOna1bqdcXPkfPfXPy93ECzzQcUBOenw0BZb4KPBsInh0bQiUqBjjwSdSJJTJt_bo2qOjf8R/s4054/Natalia%201.jpg"
+    },
+	{
+      "id": 3,
+      "name_category": "Assassin",
+      "title": "Natalia",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh7_D0UwbjiORZBiRhPN_Og2Sg_8PsCW-dmD7KTjOh7zd0iNKoDUoTeOHrg6zOxU6FCdq4wameWz4VDigMqMhXhF5uo5liSgfVfzdZs3ZK-v46EHUUa9YSJVUhS9HtVpGQD7paZv4LiQXg1DFTxjQx9CXqbykIMzY_8ZoCw-VzUl60gnS5aj7DEbrtA/s1334/Natalia%20(3).jpg"
+    },
+	{
+      "id": 4,
+      "name_category": "Assassin",
+      "title": "Natalia",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgYuqH6rgpQvtlXOH7jZus88-s0jeoZlAkSzcaxMqPbcrAML_cSvw6lprVIbH7XGRNv990L4PuEJgLc-b3YUX1Jq4C95VNZfj3LHYLyEwTDSEo9s71ZIAfUBMnlikVY2EpXw2Wh9cqdGBu134aqFEhGwbca_d3veL5GvM6KafqfpPqoAMBzByhEF1rl/s2250/Natalia%20(2).jpg"
+    },	
+	{
+      "id": 5,
+      "name_category": "Assassin",
+      "title": "Ling",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhxPk5MRLhAkxGOuKpobvhxXaw_syaKq-fLYFOzTrXAE7g2T7LLqtGfxFKnK7KTvANwIOmkO0ZTugPgFQI9KdB6IX1UlcjVvmEZimt27pE3H9vy4UGXyv3CYG4xgI3Tsyx8S5P31G2IAzVOICjVCn4l6vZakmNkZGhFO6pJd1Wqtn1Ja1H28Ma-Y3Qm/s3840/ling-serene-plume-skin-mobile-legends-4k-phone-wallpaper-2160x3840-uhdpaper.com-383.1_a.jpg"
+    },	
+	{
+      "id": 6,
+      "name_category": "Assassin",
+      "title": "Ling",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQ0WbEZeOKiuLGE4tV3Ej4TjzhFhVtuNIYaCtLD6kGJ9tFMWKnLYLULj421EUA5CyXfmVE3xWfuvQj2K0kAX423VMMujLZlo6uqmKL07GAyhzIOQtM062q0Cj1gkvU1JmebtK_MvfIt_OmIFx-69nBFtlCKIenGhDA7RMQ9LpDQFsu3iF_QUc06awz/s3376/Ling.jpg"
+    },		
+	{
+      "id": 7,
+      "name_category": "Assassin",
+      "title": "Ling",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQ0WbEZeOKiuLGE4tV3Ej4TjzhFhVtuNIYaCtLD6kGJ9tFMWKnLYLULj421EUA5CyXfmVE3xWfuvQj2K0kAX423VMMujLZlo6uqmKL07GAyhzIOQtM062q0Cj1gkvU1JmebtK_MvfIt_OmIFx-69nBFtlCKIenGhDA7RMQ9LpDQFsu3iF_QUc06awz/s3376/Ling.jpg"
+    },	
+	{
+      "id": 8,
+      "name_category": "Assassin",
+      "title": "Ling",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEieTU_wS3H4loMBF_IGTWUZ7XMw_vlcQm8uSKAk8aJOXYH5AzBISWzOVLClS36RDrNhl69yxkUHtcJyi-yi_CWwrNrUcDtuLtUkMiZOJSD3kDcShaK5iQCJMeAAo3r7IJP0O01a3hPtxqAbEJkucQIPr_CY5IUsVLx0KGUsPiMOkel0T9ixWIPHenfr/s3073/Ling%20.jpg"
+    },		
+	{
+      "id": 9,
+      "name_category": "Assassin",
+      "title": "Ling",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYTiLynILu8uYGRHXHUt9OuVU8vpr90IcgrXmb65qRuH9ABsqrX9mfY0Kbqo5TTFCO9hUHRCtL3G1kC2rKbj7RqrPexyLss8pXHxTHuffvziN9kLPk8y7ffDekdhT3Kh2v6rMx-AGU4EIG8UMw4ZG7YWlogRyaK1T8pB24cUdG7iY5I6JH0FIEAJD8/s2045/Ling%20-%20assasin.jpg"
+    },	
+	{
+      "id": 10,
+      "name_category": "Assassin",
+      "title": "Lancelot",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiM6SE1Is5lC4XK3ydwj7mIPinGA7Lh_LymUCY54Vad4dr6IprRVif8ClRwNmKUA_4m41ZLe3EAGhu6o3b61NQnQaXQt_Rw73hLE3ngF7TkiGkqi_v_sa2qVF7PJwVvK9Uv5iJIqWuhQqUU1_VOZhCxPen9Q2BWDb-aC2MpXL4JraAPRa3pp-32dsWM/s1920/lancelot-masked-knight-skin-mobile-legends-uhdpaper.com-hd-mobile-6.2975.jpg"
+    },	
+	{
+      "id": 11,
+      "name_category": "Assassin",
+      "title": "Lancelot",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgwATE51M5cm_oVb6luVbaS7DKpn3ip-DlqPFTZySwvN4OtdTqEYjyuosxjWUtK5ozm5ekW1dUevToP9b1_SIJys1RoRbbpAavJG7CNkLmDYbDjg2xPUbxmI7sgvTBuYT7SZYitwCKZBh4OYAX0G9BtMAze4lH21G8YH-lcZIEL-lzURnCCpjTMFfPk/s1920/lancelot-floral-knight-skin-mobile-legends-uhdpaper.com-hd-mobile-6.2974.jpg"
+    },		
+	{
+      "id": 12,
+      "name_category": "Assassin",
+      "title": "Lancelot",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtk-fLH9FQUOyDbbqtHX7wHEMIMY1RFj9Er75zFm9f1uPFJujMcKt5HP5f13Kg46tWlY5L9nsBhZriT_sqJfIyqbs4gZ5YBkgePSMD7EUwWAcIo8TztxBOHRfD1spmnqVGH6y9cxmZeAnzHfyN_Zy1Vp7ijyKx7Dlcp7tcDbDdYne-0MW3pLsSYFDE/s1309/Lancelot.jpg"
+    },		
+	{
+      "id": 13,
+      "name_category": "Assassin",
+      "title": "Katarina",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiNNZuVKONY0pM-V6fSmy8xn2piGOMock-6_EaCq3_GLN73R933yA59iEpRAHGwL4S-5nXNuuNfpj6vIiaNLHHl7Y1nCxnXYDNgGuHVKc70uZJ6c8fi6kwdHXjaZBnXHXcLcX91wI4jd4LAT-Dq0gtMoJ5dAmzumGR5Tiu6IsvsYOQmL42f6Leqm8b0/s1920/Untitled-1.jpg"
+    },	
+	{
+      "id": 14,
+      "name_category": "Assassin",
+      "title": "Karina",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiTgb2xauFB7HwAuKWT7YIckek4tPwUZupFTYYqiaRAInZofB1Kbdp8Fvxw22nm4rYMBQ3j_ToEWxSrqht5xxYIIXxXEJitM8U8G_BNgPmCoNJGVktKkWDqdZ5bhVoPKMk-93JltZ7x3EOm4dmfBHqMy8m_mb_dG9y4FSGFAyG4w6B0h4hHP-SUOeJc/s3840/karina-blood-moon-mobile-legends-skin-uhdpaper.com-4K-mobile-5.2869.jpg"
+    },	
+	{
+      "id": 15,
+      "name_category": "Assassin",
+      "title": "Karina",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgexInYQ2S8yzPqw2ehzNwsBqdLHzJjH0id1pQ4taZl8Y1VAf1F1luMCoQ913JWWRkzwNc5AGK5PrjUlBZWjTkJDDlNIZaAhIP6xelTStqxZM2RScSsFDynfhdCSxQu67SfUpxDhsiGD80zINKJgY5p4POrLsJJtimYbce5k0BTu8-Qfw_mvXqowzaq/s1280/karina.jpg"
+    },	
+	{
+      "id": 16,
+      "name_category": "Assassin",
+      "title": "Helcurt",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_qwRgfJUanEfjDgBrgLme164kIj5EySFzlV7Pj1tV3pCQiYs7-_Lv2qAup01bYo_MrmBGBSRIKk4IVxFBrFYlkzWbIRz1ul1bdxi_RqRokq-QW-KeVZ4YUdxN8s4xfXgoHuOq8Q0OX0lDpFR3S1ran3IudRfOyYBQ83HYPPSn8Vsl3QhOTBhfQRid/s1334/helcurt.jpg"
+    },			
+	{
+      "id": 17,
+      "name_category": "Assassin",
+      "title": "Hayabusa",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhsJjxw-BspP20X9eokQpbMWwXb1PNxqoZVF02F8cGp2NL8-Ks69x23MoeXO1yFiD0LavOXL6s4NQGvlSSCRcxZMtdUalow939qW8sXxzWGJ5EdWxB28daFQ8rpKXngGrm653h9Hbcv8f8Zt02o8eFzZ-6Xt4zbIJST3SHags2UJubacB-nlUQaFq-7/s2250/Hayabusa1.jpg"
+    },	
+	{
+      "id": 18,
+      "name_category": "Assassin",
+      "title": "Hayabusa",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1MnQAIugu3KjH-MSvPVbzMiur-d9yF-Iwi2oWOT7Z0ZF3M5YnGQA6ErBS-pL8KIYSKsEuYlwUtcprHagCY9-Y-YFU6ZheK-VRhiipCBXNmxJKVbLj9Oa35z6CfXmBd95_xoCY67cBw3eij5bmIOsjTOxno9sL6--2seuKGzkNh301IKJ78fELAWql/s1920/Hayabusa.jpg"
+    },
+	{	
+      "id": 19,
+      "name_category": "Assassin",
+      "title": "Hayabusa",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi3nj3Uf2Ry_xHeuNjofHhnClKzf29zZ73f8EF9szOH_L_k5pfadyFoy5m4LlRrjJ4lDbQEnihxbD5kOzlE24-Roz5qJ9tASkFijtztDEw6jleqc_N2TQXoFb9Y5zRJTJ9p-K8oxS56-Iu1QoBgA4z83-RORRIfOrB8RknDkJ0q3sATRcKXwVY09B8F/s3073/Hayabusa%20%20(2).jpg"
+    },
+	{	
+      "id": 20,
+      "name_category": "Assassin",
+      "title": "Hayabusa",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJqDVmHukJznSF6i8r0IwMgWLoAzvzp1IYx2aKMTnt_XNIX5_EW-zbZ9wuZpY0fhxiLcDIGNsNqrh9zirz6szn5w_GCtMQnRuz-QGgpD5UJN-WDmeuP0KdwtZnb4a_B8vzvAro09jUjWpAnajV1rUKpUNUxzHcrO6stflJnjTAubWissqMOeDEyu9h/s3073/Hayabusa%20.jpg"
+    },
+    {	
+      "id": 21,
+      "name_category": "Assassin",
+      "title": "Hanzo",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhNDSPFUSD53P-g-a-5I0XXIMAgktHoCYq5qQSZH_Oz0hHinWAktW_nmYHdfZsbmOUE_YY_QvAQZnQ3dAB9tE7rxpr1_tKMlHPaHZNIdiBFA2KWoxvbb-z-jPiZWEmL6KJFDbuvhp1Yjxo6YSr08WDDer98l0c49wWIPJN1hTDyUaU7Qt8p0s-KVqA2/s2230/Hanzo.jpg"
+    },	
+    {	
+      "id": 22,
+      "name_category": "Assassin",
+      "title": "Hanzo",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjoKI0Zb2QjObQsLuNIytk5ZAc4hDaOT1XjauUr0KG4ltn6WlhO5SxFycjE5g6hDxGTC4Kj2JmD7rEx6tvcng1e6xTqZs5QvYcHsaZPj4RrYqgUVEXAuHcrcUuWr3uh-W7YRNz1RUpkLRSU-nux9FwNK3wgiA7Jj6DxLkkmgWfvGTBDR7gzmyveZaNp/s2250/Hanzo%20.jpg"
+    },	
+    {	
+      "id": 23,
+      "name_category": "Assassin",
+      "title": "Hanzo",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg9AZRr9C2XVBaV-Z8rMTEN2Z_h2ds3t7o0QDIFVQalfxaO2SYBS2hOj4xhJjSVM8oTZvzhwJugFXQa-jpnJ7FfYQEpOUzvU1RIdJVUPUh9WPrZ-ln9CVt25cASkGy-yfbZmvG5mR9fS-_m3F8t-foB8TWIkDySIpz7Gm1AG4vtXwaol_DvTH_LLFtG/s2548/Hanzo%20%20(2).jpg"
+    },	
+    {	
+      "id": 24,
+      "name_category": "Assassin",
+      "title": "Gusion",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg22v91X9sSaNFhvGTRYHTeS_wAqnoBn8oMIFCl8kCxmslzBbVsL9OUWD5l9eL5Fw56aln1FUu7qsrTbZBQIfv7nUjkYXolU7uuFj9Ukgpxyy-RY_n9gBBCuTyRTw5KpFxNFPlDrKZwmhgvWWWwKSi0518bEbbdIHuHhKnA3G62yW1vagYHqV5yDe1v/s1920/gusion%20gossen.jpg"
+    },	
+    {	
+      "id": 25,
+      "name_category": "Assassin",
+      "title": "Gusion",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhXEFIqpN1jOC_bRyBJ4t55oiIrs-2srVKvvGTbZD2CnJxcgYBN-f6oo32_Hgklnd8s7r0iZCNJu5kYT-rQoTLYoSu0D1aFjAoP-j5tQcv6msj8mnxvOQwxvbptnG-RXk8Snuvlo8KksYFE_uH3Q2-t04saU1LfvAeHuT76hOg--QdI3f8Uc7IKv3x/s1623/gusion.jpg"
+    },
+    {	
+      "id": 26,
+      "name_category": "Assassin",
+      "title": "Gusion",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg5DHMXSwcBQ41QyneP69O373JMO5CmqJDR-1CjUxff6dnZPDM_sIP0SRS52YajJ0CBxkiwu3pMOuEycBLOiouqt3-U2uAs75O4YXsfFzF_Osch7q95zU6U-148odmtspmn7m0M7hgDLqmQVhqloaGXkTQXmO3Dxm3dcxRgV29yIdfhN2tntpC1XH5I/s2250/Gusion%20.jpg"
+    },
+    {	
+      "id": 27,
+      "name_category": "Assassin",
+      "title": "Gossen",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhiBP-o59C_iuWva84eGlGOdv-U5aUWwFgx3gvv6yWHuqlPjIIB12z-SeWbbQ5100BbnEo8ZDfhsPRGq2-UpKwL9K-mVUszKWkrOoXQht2RgCS6kDauuaAKYYNG5cUupD0J462fdb_3UcacwIamFpvT5tVIGg20HIdhVX2WKU6MtY2VOFA3q8Z6wwoN/s2157/Gossen.jpg"
+    },
+    {	
+      "id": 28,
+      "name_category": "Assassin",
+      "title": "Fanny",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEigC5X4id_bgc-SQYyxHyaNfDmoDqmTXREFLUFP3MEaKcwj3Voz_zevbNYuVDk_vHhZde7U7DSeM0HDOwbO66uYpO-2lM_IQAkEzEAQn75LJS2d6IWvD5rjIPQb5K42-y1E8_kPDy5Ee1uQhv-BoK9WRzLNLBuX97bAgX-nfEmn_Wv-IHZtmbB0pbCh/s1920/fanny-royal-cavalry-skin-mobile-legends-uhdpaper.com-4K-83.jpg"
+    },	
+    {	
+      "id": 29,
+      "name_category": "Assassin",
+      "title": "Fanny",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLfTzBwXe6URLT3lOQ7xM_1f0QqBcRCL0onaDUtQIWfH6E-iDGQCEdhhWYuGbfLRpHM-AT22cIEy1r3M_B5Zs6dnhJCZ38uq9ypLb_l-7YnszO1HJ562rOtzrTPLXDr16bFcDkK6pSkiktGbJcxj0O87T2ueMOPIq1SLofBkXibRlzrDff8t2QVbFW/s3840/fanny-punk-princess-mobile-legends-skin-uhdpaper.com-4K-mobile-5.2867.jpg"
+    },	
+    {	
+      "id": 30,
+      "name_category": "Assassin",
+      "title": "Fanny",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEin-kEiwzhEG5k321rU0fk5I3a5V3-rVyFX4uHFbxYym1HZGloO0WpE55IHrGELH2LstRpQJ4Tyg2vlpzI-V4HSxEEn8aixC1_68tGrUn3CSYYBUG2hKFSlxPcEMXwr8WsgojgnrymJ-hnVlXrWbQbG_OptRT_Guy3pERk5fHutBpTzCqCps_WvzmuZ/s2071/Fanny.jpg"
+    },		
+    {	
+      "id": 31,
+      "name_category": "Assassin",
+      "title": "Fanny",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh6a1RpW5GMZUacHGQuiFP-eB2JmY7MBfOy1gqVVaQYJR0OPJdjkgMNyp_gaUbVRHLfy5_9u_e5uSzPW1jf0i7dSRg71Za46_FcM_htIuFQvEru5Tm74qFLv8vBitltliH344I5cfTfDrO267IF8sxXv42QMsh4b2Tx7d76Y012SRViHMUR16_UApHm/s3840/fanfanny-imperial-warrior-skin-mobile-legends-phone-wallpaper-4k-uhdpaper.com-354@0@e.jpg"
+    },		
+    {	
+      "id": 32,
+      "name_category": "Assassin",
+      "title": "Alucard",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhTbqsu0kira8ctn2a5kzU5BLRWrtjSwgDBYMVYtOyPdVLMmTWmFKwRBlr6SySxveMbN2KzXfZSTwv1SOy_gZbfiMj5QtohXPvhJUBnBOJK-lRJPojuyu0oJCgEHpZoaX_67AKUpCdnMH0M-zunuY_fVo6XUeHabLup9fxpL-2YzHqpXCZAGhM6hI1W/s1844/Child%20Of%20The%20Fall,%20alucard.jpg"
+    },		
+    {	
+      "id": 33,
+      "name_category": "Assassin",
+      "title": "Alucard",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgSo6s-MzkSkDY--FbnGqeENV6MN1soO0peG8niiE6Ap51UpKe7RpP207S0KakmjmdhxtozU-ii78s-iALJb3OBIGbOClGwoIQHG4ryuQhefKEgmw21tKIu3tEtFrIAX3dbbICe7fu8g7rerCsh2gfxWRjki9ohDvkeIgz-ovqGd0jD1GfxjkzV8CJE/s3840/alucard1.jpg"
+    },				
+    {	
+      "id": 34,
+      "name_category": "Assassin",
+      "title": "Alucard",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEge7ofjs-M55bjMp7iR1iJSZ0WRINwMVlcIlwgJ57QqlTAqrgM8fBfqrZdk346fJCDgfOf9pb1L5LbTV7IS-OpKhqgEECajfW-1G7MKWh3KaUH7toHm81-gasd3OjIfLW8o7b75MhTTm7fN05cCP4UKMwQJlvN57pumE3P2BsDFfQZBiVZmfdI87LdH/s1920/alucard.jpg"
+    },		
+
+
+	
+    {	
+      "id": 33,
+      "name_category": "Tank",
+      "title": "Uranus",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZMulT_USke6Tla4XpdO7ORscYh7sVUMaiaWuablRl1cvYyW4wKyr_xH1XbfRUfOpIyPZxkMfFUSP9plTSMbJLzMdyXHfC0e_6Cg2o3GTlzoSkz2Beqqn_06CIbAcVurUwu24HSD6ip3h-xbYiLhKNDbDHQYAYqkgiDs9sM0zs45TyfJHbueQXzv1v/s1920/uranus-video-game-dominator-skin-mobile-legends-uhdpaper.com-hd-mobile-6.2827.jpg"
+    },			
+    {	
+      "id": 34,
+      "name_category": "Tank",
+      "title": "Tigreal",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXpXSBTNspY7968qlEsHfxUaceAlIoak_DTKgiRx0a0WU7bkEE9PURPlHVAjnzzTIvSB4b5c897uvRCrdwoRqW6ALu3-F3HnPhtkOF50GpYLfxQh3f-ucnMWBp-PbcxR34ApmuyGS1WuIdyOPLqpxcFsyTv-o2GG7bm4jS0AYxWIbLMZryc2t8dgrM/s1334/tigreal.jpg"
+    },					
+    {
+      "id":35,
+      "name_category": "Tank",
+      "title":"Ruby",
+      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0Yqs3RhDmH5ce_w6c1kCFVMCKFmhOJvHmiSJ7HsNkik4DXmBcfGbWPMRHaUCb7EaU2-P3ePfj_pDqDbfrrKDRC2Z4KMHniceb-uuyoKfR2IKRyf0qA_tKqJkkSXRswktc__fInF7XiH-W15Hg6b4WCHyqND209c0h6evXWVNRDtybwUElviDvinpM/s1334/Ruby.jpg"
+    },
+    {
+      "id":36,
+      "name_category": "Tank",
+      "title":"Ruby",
+      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhrWhGPvZbPsNUujUR8UxtKh_YZbxQq3TaX5geVtqorDvaC_JoeLhCN4hb7H0qSWm8pXVB7cTdcSmyqzsbVP8R0iMqEDkT4n4z7i9iMDN8_Y2iMWM5LGWPxiulsd-5HVL6HBX1_kIxkDQITFId3jsopXAGFPFq0YFffQbY-LwHfZLdT3ifMfAXL06aO/s1929/Ruby%20.jpg"
+    },
+	
+	
+	
+    {
+      "id":5,
+      "name_category": "Mage",
+      "title":"Valir",
+      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYvmf9n2ItERzYjLlhpIu1ku9jQkSWpKKXeMw5384qkn3kfZKxl8B2F1LOte-plX_8_oYEkDB03cpHb0oSGfgaqXWclWWqVtxl76YmDR6v0oDti9vXX0UICgPUzoNw2feGZUDHzuYT5uDP84Di9NVKGyyphgwvu_BBPnolcyXmLWIdgGXT5lpbOu92/s3840/valir-infernal-blaze-skin-mobile-legends-mlbb-4k-phone-wallpaper-2160x3840-uhdpaper.com-314.1_c.jpg"
+    },
+    {
+      "id":6,
+      "name_category": "Fighter",
+      "title":"Zilong",
+      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEix-UAdb56k4l618X_91hSiap2mBcWXDCQR2odtWdTcyqXVP_L4f61EZLbD0llS0dR55aMlREnEjuEF3N9zbSylVdnM2v79yjzjRtguNV3xEhlRMpnIUkg32tOW9DSOxaTYo-OIB4nj4t5Xe_l9SuzXKkn3pYW8jioRQwD4ZKPeYNsFUkc3ujdGtjX-/s1534/zilong.jpg"
+    }
+  ]
+}
