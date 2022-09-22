@@ -101,6 +101,12 @@
     },
     {
       "id": 9,
+      "name_category": "Conan",
+      "image": "https://blogger.googleusercontent.com/img/a/AVvXsEgPHuDnPP_lro9K8jgT-WTiaLZG92l0So9gAWB0mCOae1POKvWATXaRvnkH54NCtBAJ6cs3Pnu1rijO6l7JXr2EDN2ntdcRD92vE1U12FgXhSmDvp1OUGuHjbnNgLFdKjkmXHArTyA07GmXX9TErFCdMlBXdJDHcsF8d598GxXL5nX6GMlwG8WccBiz"
+
+    },
+    {
+      "id": 10,
       "name_category": "Anime",
       "image": "https://blogger.googleusercontent.com/img/a/AVvXsEgfcRN4zJM5AqMBLwMehK6h6D_A7Ele_19IX4s_oq0PMb8B-jeYPRG2wlwOuyZLYJfUrNgryTt7aH4_D2rMqpqcAIqM58AEgpFcHaRhyoxA3DzV-LCKOFtF-Fm2ov2Nn4Ve_RaYrnIqY79XOk3JWTbrsq23yS0HCszGoJ8EaEG3kIk00DUsb8FHPo5U"
 
@@ -114,34 +120,64 @@
   [
     {
       "id":1,
-      "name_category": "Assassin",
+      "name_category": "One Piece",
       "title":"Natalia",
       "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhjGveD2sXZZuB_f6Kxq9_orSRfTDuBifqoEyshoVotyCV1o7_oKtc9miRDs4gGUEo3ntin3coHvd3qRAH9QiRsp6KXOLcOv7JYcO_E3MYHv5vbwrr2MSxRI618Uhs5s4GjJdDCWdomEJoxY2s6R88FQbEnykEi2Bg1UCrkiWsJ9dt5-oXMb-fB2-fG/s1920/Natalia.jpg"
     },
     {
       "id": 2,
-      "name_category": "Assassin",
+      "name_category": "Attack on Titan",
       "title": "Natalia",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjT698ywkCJ0elp4NswSBfPGgvF7extbk91P1jzEUN4rw-8_4kHuxA9Nu7rzFslbhty-aZSmauFgligpqmAMt4c8xUMkHxMKE8cl0Y41GYqMRXgwUMAaOna1bqdcXPkfPfXPy93ECzzQcUBOenw0BZb4KPBsInh0bQiUqBjjwSdSJJTJt_bo2qOjf8R/s4054/Natalia%201.jpg"
     },
 	{
       "id": 3,
-      "name_category": "Assassin",
+      "name_category": "Haikyuu",
       "title": "Natalia",
       "image": "https://images8.alphacoders.com/548/548717.jpg"
     },
 	{
       "id": 4,
-      "name_category": "Assassin",
+      "name_category": "Tokyo Ghoul",
       "title": "Natalia",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgYuqH6rgpQvtlXOH7jZus88-s0jeoZlAkSzcaxMqPbcrAML_cSvw6lprVIbH7XGRNv990L4PuEJgLc-b3YUX1Jq4C95VNZfj3LHYLyEwTDSEo9s71ZIAfUBMnlikVY2EpXw2Wh9cqdGBu134aqFEhGwbca_d3veL5GvM6KafqfpPqoAMBzByhEF1rl/s2250/Natalia%20(2).jpg"
     },	
 	{
       "id": 5,
-      "name_category": "Assassin",
+      "name_category": "Kuroko’s Basketball",
       "title": "Ling",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhxPk5MRLhAkxGOuKpobvhxXaw_syaKq-fLYFOzTrXAE7g2T7LLqtGfxFKnK7KTvANwIOmkO0ZTugPgFQI9KdB6IX1UlcjVvmEZimt27pE3H9vy4UGXyv3CYG4xgI3Tsyx8S5P31G2IAzVOICjVCn4l6vZakmNkZGhFO6pJd1Wqtn1Ja1H28Ma-Y3Qm/s3840/ling-serene-plume-skin-mobile-legends-4k-phone-wallpaper-2160x3840-uhdpaper.com-383.1_a.jpg"
     },	
+	{
+      "id": 6,
+      "name_category": "Naruto",
+      "title": "Ling",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhxPk5MRLhAkxGOuKpobvhxXaw_syaKq-fLYFOzTrXAE7g2T7LLqtGfxFKnK7KTvANwIOmkO0ZTugPgFQI9KdB6IX1UlcjVvmEZimt27pE3H9vy4UGXyv3CYG4xgI3Tsyx8S5P31G2IAzVOICjVCn4l6vZakmNkZGhFO6pJd1Wqtn1Ja1H28Ma-Y3Qm/s3840/ling-serene-plume-skin-mobile-legends-4k-phone-wallpaper-2160x3840-uhdpaper.com-383.1_a.jpg"
+    },
+	  {
+      "id": 7,
+      "name_category": "Ace of Diamond",
+      "title": "Ling",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhxPk5MRLhAkxGOuKpobvhxXaw_syaKq-fLYFOzTrXAE7g2T7LLqtGfxFKnK7KTvANwIOmkO0ZTugPgFQI9KdB6IX1UlcjVvmEZimt27pE3H9vy4UGXyv3CYG4xgI3Tsyx8S5P31G2IAzVOICjVCn4l6vZakmNkZGhFO6pJd1Wqtn1Ja1H28Ma-Y3Qm/s3840/ling-serene-plume-skin-mobile-legends-4k-phone-wallpaper-2160x3840-uhdpaper.com-383.1_a.jpg"
+    },
+	  {
+      "id": 8,
+      "name_category": "Death Note",
+      "title": "Ling",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhxPk5MRLhAkxGOuKpobvhxXaw_syaKq-fLYFOzTrXAE7g2T7LLqtGfxFKnK7KTvANwIOmkO0ZTugPgFQI9KdB6IX1UlcjVvmEZimt27pE3H9vy4UGXyv3CYG4xgI3Tsyx8S5P31G2IAzVOICjVCn4l6vZakmNkZGhFO6pJd1Wqtn1Ja1H28Ma-Y3Qm/s3840/ling-serene-plume-skin-mobile-legends-4k-phone-wallpaper-2160x3840-uhdpaper.com-383.1_a.jpg"
+    },
+	  {
+      "id": 9,
+      "name_category": "Conan",
+      "title": "Ling",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhxPk5MRLhAkxGOuKpobvhxXaw_syaKq-fLYFOzTrXAE7g2T7LLqtGfxFKnK7KTvANwIOmkO0ZTugPgFQI9KdB6IX1UlcjVvmEZimt27pE3H9vy4UGXyv3CYG4xgI3Tsyx8S5P31G2IAzVOICjVCn4l6vZakmNkZGhFO6pJd1Wqtn1Ja1H28Ma-Y3Qm/s3840/ling-serene-plume-skin-mobile-legends-4k-phone-wallpaper-2160x3840-uhdpaper.com-383.1_a.jpg"
+    },
+	  {
+      "id": 10,
+      "name_category": "Anime",
+      "title": "Ling",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhxPk5MRLhAkxGOuKpobvhxXaw_syaKq-fLYFOzTrXAE7g2T7LLqtGfxFKnK7KTvANwIOmkO0ZTugPgFQI9KdB6IX1UlcjVvmEZimt27pE3H9vy4UGXyv3CYG4xgI3Tsyx8S5P31G2IAzVOICjVCn4l6vZakmNkZGhFO6pJd1Wqtn1Ja1H28Ma-Y3Qm/s3840/ling-serene-plume-skin-mobile-legends-4k-phone-wallpaper-2160x3840-uhdpaper.com-383.1_a.jpg"
+    },
 
   ]
 }
