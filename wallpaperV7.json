@@ -147,7 +147,31 @@
       "name_category": "One Piece",
       "title":"Wano",
       "image": "https://wallpapercave.com/dwp1x/wp9889710.jpg"
-    }	  
+    },	  
+    {
+      "id":6,
+      "name_category": "One Piece",
+      "title":"Roger",
+      "image": "https://wallpapercave.com/dwp1x/wp10085500.jpg"
+    },		
+    {
+      "id":7,
+      "name_category": "One Piece",
+      "title":"Mugiwara",
+      "image": "https://wallpapercave.com/dwp1x/wp10990282.jpg"
+    },	
+    {
+      "id":8,
+      "name_category": "One Piece",
+      "title":"Nami",
+      "image": "https://mfiles.alphacoders.com/978/978838.jpg"
+    },		  
+    {
+      "id":9,
+      "name_category": "One Piece",
+      "title":"Marco",
+      "image": "https://mfiles.alphacoders.com/977/977856.jpg"
+    }		  
 	  
   ]
 }
