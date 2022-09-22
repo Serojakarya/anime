@@ -171,7 +171,321 @@
       "name_category": "One Piece",
       "title":"Marco",
       "image": "https://mfiles.alphacoders.com/977/977856.jpg"
-    }		  
+    },		  
+    {
+      "id":10,
+      "name_category": "One Piece",
+      "title":"Uta",
+      "image": "https://mfiles.alphacoders.com/977/977688.png"
+    },		  
+    {
+      "id":11,
+      "name_category": "One Piece",
+      "title":"Uta",
+      "image": "https://mfiles.alphacoders.com/977/977689.png"
+    },		  
+    {
+      "id":12,
+      "name_category": "One Piece",
+      "title":"Kurohige",
+      "image": "https://mfiles.alphacoders.com/977/977503.png"
+    },
+    {
+      "id":13,
+      "name_category": "One Piece",
+      "title":"Ace",
+      "image": "https://mfiles.alphacoders.com/976/976174.jpg"
+    },	  
+    {
+      "id":14,
+      "name_category": "One Piece",
+      "title":"Ace",
+      "image": "https://mfiles.alphacoders.com/976/976174.jpg"
+    },		  
+    {
+      "id":15,
+      "name_category": "One Piece",
+      "title":"Zoro",
+      "image": "https://mfiles.alphacoders.com/976/976531.jpg"
+    },		  
+    {
+      "id":16,
+      "name_category": "One Piece",
+      "title":"Zimbe",
+      "image": "https://mfiles.alphacoders.com/972/972432.jpg"
+    },						  
+    {
+      "id":17,
+      "name_category": "One Piece",
+      "title":"Kaido",
+      "image": "https://mfiles.alphacoders.com/971/971781.png"
+    },	
+    {
+      "id":18,
+      "name_category": "One Piece",
+      "title":"Rosinante",
+      "image": "https://mfiles.alphacoders.com/969/969584.jpg"
+    },		 
+    {
+      "id":19,
+      "name_category": "One Piece",
+      "title":"Zoro",
+      "image": "https://mfiles.alphacoders.com/967/967919.jpg"
+    },		
+    {
+      "id":20,
+      "name_category": "One Piece",
+      "title":"Luffy Gear 5",
+      "image": "https://mfiles.alphacoders.com/967/967085.png"
+    },		  		  
+    {
+      "id":21,
+      "name_category": "One Piece",
+      "title":"King",
+      "image": "https://mfiles.alphacoders.com/966/966463.jpg"
+    },		  
+    {
+      "id":22,
+      "name_category": "One Piece",
+      "title":"Kids",
+      "image": "https://mfiles.alphacoders.com/966/966895.jpg"
+    },		  
+    {
+      "id":23,
+      "name_category": "One Piece",
+      "title":"Hiyori",
+      "image": "https://mfiles.alphacoders.com/967/967394.jpg"
+    },		  
+    {
+      "id":24,
+      "name_category": "One Piece",
+      "title":"Franky",
+      "image": "https://mfiles.alphacoders.com/956/956492.png"
+    },		  
+    {
+      "id":25,
+      "name_category": "One Piece",
+      "title":"Boa",
+      "image": "https://mfiles.alphacoders.com/955/955557.jpg"
+    },		  
+    {
+      "id":26,
+      "name_category": "One Piece",
+      "title":"Yamato",
+      "image": "https://mfiles.alphacoders.com/953/953846.png"
+    },		  
+    {
+      "id":27,
+      "name_category": "One Piece",
+      "title":"Sanji",
+      "image": "https://mfiles.alphacoders.com/953/953391.jpg"
+    },		  
+    {
+      "id":28,
+      "name_category": "One Piece",
+      "title":"Zoro",
+      "image": "https://mfiles.alphacoders.com/952/952571.jpg"
+    },		  
+    {
+      "id":29,
+      "name_category": "One Piece",
+      "title":"Law",
+      "image": "https://mfiles.alphacoders.com/946/946510.jpg"
+    },		  
+    {
+      "id":30,
+      "name_category": "One Piece",
+      "title":"Katakuri",
+      "image": "https://mfiles.alphacoders.com/946/946508.png"
+    },		  
+    {
+      "id":31,
+      "name_category": "One Piece",
+      "title":"Robin",
+      "image": "https://mfiles.alphacoders.com/931/931501.jpg"
+    },		  	  	  	  	  	  	  	  	  	  	  	  	  	  
+    {
+      "id":32,
+      "name_category": "One Piece",
+      "title":"Tasighi",
+      "image": "https://mfiles.alphacoders.com/931/931503.jpg"
+    },		  
+    {
+      "id":33,
+      "name_category": "One Piece",
+      "title":"Nami",
+      "image": "https://mfiles.alphacoders.com/930/930210.png"
+    },		  
+    {
+      "id":34,
+      "name_category": "One Piece",
+      "title":"Shanks",
+      "image": "https://mfiles.alphacoders.com/923/923385.png"
+    },
+    {
+      "id":35,
+      "name_category": "One Piece",
+      "title":"Dofi",
+      "image": "https://mfiles.alphacoders.com/923/923285.jpg"
+    },	   
+    {
+      "id":36,
+      "name_category": "One Piece",
+      "title":"Shanks",
+      "image": "https://mfiles.alphacoders.com/765/765804.jpg"
+    },	   
+    {
+      "id":37,
+      "name_category": "One Piece",
+      "title":"Silvers Rayleigh",
+      "image": "https://mfiles.alphacoders.com/761/761480.jpg"
+    },	   
+    {
+      "id":38,
+      "name_category": "Attack On Titan",
+      "title":"Attack On Titan",
+      "image": "https://mfiles.alphacoders.com/970/970242.jpg"
+    },	   
+    {
+      "id":34,
+      "name_category": "One Piece",
+      "title":"",
+      "image": ""
+    },	   	  	  	  	  	  
+    {
+      "id":34,
+      "name_category": "One Piece",
+      "title":"",
+      "image": ""
+    },	   
+    {
+      "id":34,
+      "name_category": "One Piece",
+      "title":"",
+      "image": ""
+    },	   
+    {
+      "id":34,
+      "name_category": "One Piece",
+      "title":"",
+      "image": ""
+    },	   	  	  	  	  
+    {
+      "id":34,
+      "name_category": "One Piece",
+      "title":"",
+      "image": ""
+    },	   
+    {
+      "id":34,
+      "name_category": "One Piece",
+      "title":"",
+      "image": ""
+    },	   
+    {
+      "id":34,
+      "name_category": "One Piece",
+      "title":"",
+      "image": ""
+    },	   
+    {
+      "id":34,
+      "name_category": "One Piece",
+      "title":"",
+      "image": ""
+    },	   	  	  	  	  	  
+    {
+      "id":34,
+      "name_category": "One Piece",
+      "title":"",
+      "image": ""
+    },	   
+    {
+      "id":34,
+      "name_category": "One Piece",
+      "title":"",
+      "image": ""
+    },	   
+    {
+      "id":34,
+      "name_category": "One Piece",
+      "title":"",
+      "image": ""
+    },	   
+    {
+      "id":34,
+      "name_category": "One Piece",
+      "title":"",
+      "image": ""
+    },	   
+    {
+      "id":34,
+      "name_category": "One Piece",
+      "title":"",
+      "image": ""
+    },	   
+    {
+      "id":34,
+      "name_category": "One Piece",
+      "title":"",
+      "image": ""
+    },	   
+    {
+      "id":34,
+      "name_category": "One Piece",
+      "title":"",
+      "image": ""
+    },	   
+    {
+      "id":34,
+      "name_category": "One Piece",
+      "title":"",
+      "image": ""
+    },	   
+    {
+      "id":34,
+      "name_category": "One Piece",
+      "title":"",
+      "image": ""
+    },	   
+    {
+      "id":34,
+      "name_category": "One Piece",
+      "title":"",
+      "image": ""
+    },	   
+	  	  	  	  	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
 	  
   ]
 }
